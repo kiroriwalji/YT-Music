@@ -1,0 +1,33 @@
+.mid-container{
+background-color: black;
+border-top: 1px solid #333;
+    width: 100px ;
+    /* color:wheat; */
+    position: absolute;
+    width:auto;
+    /* display: flex; */
+    /* justify-content: right; */
+    /* right: 0px;
+    top: 75px; */
+    padding: 10px;
+    width: calc(100vw - 19vw );
+    height: 100vh;
+    
+}
+
+.mid-gen{
+    /* border: 2px solid white; */
+    display: flex;
+    justify-content: center;
+    color: white;
+    gap: 20px;
+
+}
+li{
+    list-style: none;
+    color: white;
+    /* gap: 10px; */
+    padding: 10px;
+    background-color: #333;
+    border-radius: 10px;
+}
